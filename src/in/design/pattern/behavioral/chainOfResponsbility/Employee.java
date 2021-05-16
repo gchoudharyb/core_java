@@ -1,6 +1,6 @@
 package in.design.pattern.behavioral.chainOfResponsbility;
 
-//Abstract handler
+//Abstract handlersdsd
 public abstract class Employee implements LeaveApprover{
 
 	private String role;
